@@ -2,7 +2,7 @@
 
 **BillMate** is a user-friendly and efficient bill calculator mobile application developed using **Android Studio**. It is designed to help users calculate bills easily by entering item prices one by one, viewing a dynamic list of all entries, and generating a summary with discount calculation and print-ready details.
 
----
+
 
 ## ✨ Features
 
@@ -15,15 +15,7 @@
 - 🎨 Attractive and clean UI with fonts, icons, and styled layout
 - 🔤 Outputs styled using **Times New Roman Bold**
 
----
 
-## 📱 Screenshots
-
-> *(Add your app screenshots here if available)*  
-> ![screenshot1](path/to/screenshot1.png)  
-> ![screenshot2](path/to/screenshot2.png)
-
----
 
 ## ⚙️ Technologies Used
 
